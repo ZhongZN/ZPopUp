@@ -6,10 +6,11 @@
  * @version 1.0.0
  * @link https://zn.ax/
  */
-class ZPopUp_Plugin implements Typecho_Plugin_Interface{
+class ZPopUp_Plugin implements Typecho_Plugin_Interface
+{
     public static function activate()
     {
-		Typecho_Plugin::factory('Widget_Archive')->header = array('ZPopUp_Plugin', 'frot');
+	Typecho_Plugin::factory('Widget_Archive')->header = array('ZPopUp_Plugin', 'frot');
         Typecho_Plugin::factory('Widget_Archive')->footer = array('ZPopUp_Plugin', 'froe');
         return _t('插件已经激活');
     }
