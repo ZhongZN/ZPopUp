@@ -1,2 +1,2 @@
 # ZnHelper
-一款Typecho弹窗插件。因有些许Bug，故开源。
+一款Typecho弹窗插件。因本人技术太菜，故开源。
