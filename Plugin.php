@@ -1,6 +1,6 @@
 <?php
 /**
- * <strong style="color:red;">Typecho弹出窗口插件 更新时间: </strong><code style="padding: 2px 4px; font-size: 90%; color: #c7254e; background-color: #f9f2f4; border-radius: 4px;">2021-3-12</code>
+ * <strong style="color:red;">Typecho弹窗客服插件 更新时间: </strong><code style="padding: 2px 4px; font-size: 90%; color: #c7254e; background-color: #f9f2f4; border-radius: 4px;">2021-5-16</code>
  * @package ZnHelper
  * @author ZhongZN
  * @version 1.2.0
